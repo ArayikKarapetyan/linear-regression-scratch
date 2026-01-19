@@ -12,12 +12,11 @@
 1. [Core Implementation](#core-implementation)
 2. [Examples Guide](#examples-guide)
 3. [Getting Started](#getting-started)
-4. [Testing](#testing)
-5. [Documentation](#documentation)
-6. [Learning Path](#learning-path)
-7. [Project Structure](#project-structure)
-8. [Contributing](#contributing)
-9. [Quick Links](#quick-links)
+4. [Documentation](#documentation)
+5. [Learning Path](#learning-path)
+6. [Project Structure](#project-structure)
+7. [Contributing](#contributing)
+8. [Quick Links](#quick-links)
 
 ---
 
@@ -183,35 +182,6 @@ done
 
 ---
 
-## Testing
-
-### Run Tests
-
-```bash
-# Run all tests
-pytest tests/
-
-# Run specific test file
-pytest tests/test_linear_regression.py
-
-# Run with verbose output
-pytest tests/ -v
-
-# Run with coverage report
-pytest tests/ --cov=src --cov-report=html
-```
-
-### Test Structure
-
-**Location**: `tests/test_linear_regression.py`
-
-**What's tested**:
-- Gradient Descent convergence
-- Normal Equation accuracy
-- Prediction correctness
-- Edge cases and error handling
-
----
 
 ## Documentation
 
@@ -338,3 +308,4 @@ python examples/01_basic_usage.py
 
 
 </div>
+
