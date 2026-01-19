@@ -1,4 +1,4 @@
-# 🧠 Linear Regression from Scratch - Complete Guide
+# Linear Regression from Scratch - Complete Guide
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![GitHub stars](https://img.shields.io/github/stars/ArayikKarapetyan/linear-regression-scratch?style=social)](https://github.com/ArayikKarapetyan/linear-regression-scratch)
@@ -335,5 +335,6 @@ python examples/01_basic_usage.py
 [![GitHub stars](https://img.shields.io/github/stars/ArayikKarapetyan/linear-regression-scratch?style=social)](https://github.com/ArayikKarapetyan/linear-regression-scratch)
 
 **Built for learning with ❤️**
+
 
 </div>
