@@ -217,7 +217,6 @@ linear-regression-scratch/
 
 - **Main Algorithm**: `src/linear_regression.py`
 - **All Examples**: `examples/`
-- **Tests**: `tests/`
 - **Documentation**: `docs/`
 
 ---
@@ -241,6 +240,7 @@ python examples/01_basic_usage.py
 
 
 </div>
+
 
 
 
