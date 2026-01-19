@@ -191,44 +191,8 @@ done
 
 **Contents**: Complete mathematical proofs and derivations
 
-### Algorithm Comparison
-
-**Location**: `docs/algorithm_comparison.md`
-
-**Contents**: Gradient Descent vs Normal Equation analysis
-
-### Interactive Tutorials
-
-**Location**: `notebooks/demo.ipynb` (if available)
-
-**Contents**: Jupyter notebook with visual examples
-
 ---
 
-## Learning Path
-
-### For Beginners
-
-1. Start with `01_basic_usage.py`
-2. Read the mathematical derivations in `docs/`
-3. Experiment with different learning rates in `02_gradient_descent.py`
-4. Try polynomial regression with `04_polynomial_regression.py`
-
-### For Intermediate Users
-
-1. Analyze real-world examples (`05_real_estate.py`, `06_diabetes_prediction.py`)
-2. Compare performance with scikit-learn
-3. Modify algorithm parameters and observe effects
-4. Add your own features to the models
-
-### For Advanced Users
-
-1. Implement additional optimization algorithms
-2. Add L1 regularization (Lasso)
-3. Extend to logistic regression
-4. Implement cross-validation
-
----
 
 ## 📁 Project Structure
 
@@ -243,33 +207,10 @@ linear-regression-scratch/
 │   ├── 04: Polynomial fitting
 │   └── 05-07: Real-world cases
 │
-├── 📂 tests/                 # TEST SUITE
-│   └── test_linear_regression.py
-│
 ├── 📂 docs/                  # MATHEMATICAL DOCS
-│   ├── mathematical_derivations.md
-│   └── algorithm_comparison.md
-│
-└── 📂 notebooks/             # INTERACTIVE TUTORIALS
-    └── demo.ipynb
+    └── mathematical_derivations.md
+
 ```
-
----
-
-## Contributing
-
-### How to Add New Examples
-
-1. Create new file in `examples/` folder (e.g., `08_new_example.py`)
-2. Follow existing structure with clear documentation
-3. Include visualizations if applicable
-4. Add to this README's examples guide
-
-### Reporting Issues
-
-1. Check if issue already exists in Issues
-2. Provide example code to reproduce
-3. Include expected vs actual behavior
 
 ---
 
@@ -282,18 +223,11 @@ linear-regression-scratch/
 
 ---
 
-## 📞 Need Help?
-
-- Check the examples for similar use cases
-- Review mathematical derivations in `docs/`
-- Run tests to verify your implementation
-- Open an issue for specific questions
-
 ---
 
 <div align="center">
 
-## 🚀 Start Exploring!
+## Start Exploring!
 
 ```bash
 # Pick an example and run it
@@ -308,4 +242,5 @@ python examples/01_basic_usage.py
 
 
 </div>
+
 
