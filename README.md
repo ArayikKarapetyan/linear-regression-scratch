@@ -13,10 +13,9 @@
 2. [Examples Guide](#examples-guide)
 3. [Getting Started](#getting-started)
 4. [Documentation](#documentation)
-5. [Learning Path](#learning-path)
-6. [Project Structure](#project-structure)
-7. [Contributing](#contributing)
-8. [Quick Links](#quick-links)
+5. [Project Structure](#project-structure)
+6. [Contributing](#contributing)
+7. [Quick Links](#quick-links)
 
 ---
 
@@ -194,7 +193,7 @@ done
 ---
 
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 linear-regression-scratch/
@@ -242,5 +241,6 @@ python examples/01_basic_usage.py
 
 
 </div>
+
 
 
